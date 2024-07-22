@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "first proyect node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "RODRIGO": "echo  'hola Rodrigo'",
+    "start": "node index.js",
+    "dev": "node --watch  index.js"
+  },
+  "keywords": [
+    "learn",
+    "kodemia",
+    "node"
+  ],
+  "author": "@RodrigoTapia33",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
